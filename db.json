@@ -9,9 +9,9 @@
       ],
       "name": "Nhẫn vòng ADV",
       "price": 700000,
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Bông tai",
         "Nhẫn",
         "Vòng tay"
@@ -25,9 +25,9 @@
       ],
       "name": "Bông tai cao cấp Biz",
       "price": 350000,
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Bông tai",
         "Trắng",
         "Xám"
@@ -43,10 +43,10 @@
         "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/4-1-cc4cc6c9-6336-42b2-b06a-c274fd90f068.jpg?v=1490840661093"
       ],
       "name": "Nhẫn ngọc trai cao cấp",
-      "price": "Liên hệ",
-      "discount": null,
+      "price": "800000",
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Nhẫn",
         "Thiết kế theo yêu cầu"
       ],
@@ -59,9 +59,9 @@
       ],
       "name": "Vòng tay cao cấp",
       "price": "500000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Bạch kim",
         "Vòng tay"
       ],
@@ -74,9 +74,9 @@
       ],
       "name": "Nhẫn vàng cao cấp",
       "price": "400000",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Vàng",
         "Xanh",
         "Xám",
@@ -91,9 +91,9 @@
       ],
       "name": "Nhẫn gắn kim cương cao cấp",
       "price": "100000",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Tình nhân",
         "Nhẫn"
       ],
@@ -106,9 +106,9 @@
       ],
       "name": "Nhẫn tình yêu",
       "price": "900000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Nhẫn",
         "Tình nhân"
       ],
@@ -121,9 +121,9 @@
       ],
       "name": "Bông tai cao cấp",
       "price": "400000",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Bông tai"
       ],
       "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius."
@@ -137,9 +137,9 @@
       ],
       "name": "Bông tai ngọc trai",
       "price": "500000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Bông tai",
         "Thiết kế theo yêu cầu"
       ],
@@ -152,9 +152,9 @@
       ],
       "name": "Nhẫn đôi kim cương",
       "price": "800000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Tình nhân",
         "Nhẫn"
       ],
@@ -170,9 +170,9 @@
       ],
       "name": "Chìa khóa tình yêu",
       "price": "450000",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Tình nhân",
         "Vòng cổ"
       ],
@@ -185,9 +185,9 @@
       ],
       "name": "Dây chuyền số 8",
       "price": "600000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Vòng cổ",
         "Số 8"
       ],
@@ -203,9 +203,9 @@
       ],
       "name": "Vòng cổ đá xanh",
       "price": "300000",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Vòng cổ"
       ],
       "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius."
@@ -219,9 +219,9 @@
       ],
       "name": "Nhận vòng basic",
       "price": "700000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Vòng tay",
         "Nhẫn"
       ],
@@ -234,9 +234,9 @@
       ],
       "name": "Bông tay phá cách",
       "price": "350000",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Bông tai"
       ],
       "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius."
@@ -248,9 +248,9 @@
       ],
       "name": "Vòng tay tình nhân",
       "price": "999999",
-      "discount": null,
+      "discount": 0,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Tình nhân",
         "Vòng tay",
         "Vàng"
@@ -264,9 +264,9 @@
       ],
       "name": "Vòng tay bạch kim",
       "price": "500000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Vòng tay",
         "Bạch kim"
       ],
@@ -279,14 +279,40 @@
       ],
       "name": "Nhẫn hồng khắc tê",
       "price": "300000",
-      "discount": "10%",
+      "discount": 10,
       "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Tags": [
+      "tags": [
         "Khắc tên",
         "Nhẫn",
         "Tình nhân"
       ],
       "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius."
+    }
+  ],
+  "ProductHot": [
+    {
+      "id": 1,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/small/100/191/458/products/9-4-df6e6054-0c41-4235-bc57-be3c8c406cd4.jpg?v=1528211760227"
+      ],
+      "name": "Nhẫn vòng ADV",
+      "price": 700000
+    },
+    {
+      "id": 2,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/small/100/191/458/products/8-1-26e44d88-8656-4580-9ce6-9ef0518d26f3.jpg?v=1490840698907"
+      ],
+      "name": "Bông tai cao cấp Biz",
+      "price": 350000
+    },
+    {
+      "id": 3,
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/small/100/191/458/products/6-4-94480226-1174-4722-b6cf-5b68c244215d.jpg?v=1490840635903"
+      ],
+      "name": "Vòng tay cao cấp",
+      "price": 350000
     }
   ]
 }
