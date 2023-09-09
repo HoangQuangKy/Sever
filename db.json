@@ -324,70 +324,162 @@
   ],
   "Account": [
     {
-      "email": "admin",
-      "password": "admin"
-    },
-    {
-      "id": "e085ecc8-ef46-4637-8093-54ce79f1f623",
+      "username": "kyhoang4@gmail.com",
       "email": "kyhoang487@gmail.com",
-      "password": "123"
+      "password": "123",
+      "address": "Viet Nam",
+      "userId": "18caf387-67cf-4449-86dc-1de75d1b12ca",
+      "id": 1
     },
     {
-      "id": "b60d62b4-d3b8-4e54-b2bf-b01ca527745e",
-      "email": "kyhoang123",
-      "password": "123"
+      "username": "muacp2",
+      "email": "kyhoang487@gmail.com",
+      "password": "123",
+      "address": "Viet Nam",
+      "phonenumber": "0947976736",
+      "userId": "fed20931-1d1c-489c-a4db-3cb71cad90ef",
+      "id": 2
     },
     {
-      "id": "64ef48c8-ddc0-412e-b91c-a48cdee76f86",
-      "email": "muacp1",
-      "password": "123"
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "address": "Hải Phòng",
+      "phonenumber": "0947976736",
+      "userId": "4a091043-ab85-4d31-802a-b488fb396ffd",
+      "id": 3
     }
   ],
   "carts": [
-    [
-      {
-        "id": 2,
-        "img": [
-          "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/8-1-26e44d88-8656-4580-9ce6-9ef0518d26f3.jpg?v=1490840698907"
-        ],
-        "name": "Bông tai cao cấp Biz",
-        "price": 350000,
-        "discount": 0,
-        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "tags": [
-          "Bông tai",
-          "Trắng",
-          "Xám"
-        ],
-        "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
-        "quantity": 1
-      },
-      {
-        "id": 3,
-        "img": [
-          "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/1-50c08fa3-64b2-4b4b-b347-e8bb9ca7689c.jpg?v=1490840661093",
-          "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/2-1-a0a141f5-ee57-4007-bc15-0541b8f7384e.jpg?v=1490840661093",
-          "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/3-1-0e216b15-fde6-46cb-851f-204becefd63b.jpg?v=1490840661093",
-          "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/4-1-cc4cc6c9-6336-42b2-b06a-c274fd90f068.jpg?v=1490840661093"
-        ],
-        "name": "Nhẫn ngọc trai cao cấp",
-        "price": "800000",
-        "discount": 0,
-        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "tags": [
-          "Nhẫn",
-          "Thiết kế theo yêu cầu"
-        ],
-        "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
-        "quantity": 1
-      },
-      [
+    {
+      "id": "1f0e042f-9b3a-4967-bad7-4ac45d5813f6",
+      "status": 1,
+      "username": "admin",
+      "product": [
         {
-          "id": "6821491e-5080-46aa-bd3b-fcfe64a90809",
-          "status": "Chờ xác nhận"
+          "id": 1,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/9-4-df6e6054-0c41-4235-bc57-be3c8c406cd4.jpg?v=1528211760227",
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/11-4-0ffebfee-662d-45db-b6be-8ede3df1bf83.jpg?v=1528211760227",
+            "https://bizweb.dktcdn.net/thumb/medium/100/191/458/products/10-4-5b714fc1-c36a-4836-81dd-f743f02a7e1c-d07b6a56-03df-4e65-9dad-fef22027413f.jpg?v=1528211760227"
+          ],
+          "name": "Nhẫn vòng ADV",
+          "price": "1000000",
+          "discount": "10",
+          "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "tags": [
+            "Bông tai",
+            "Nhẫn",
+            "Vòng tay"
+          ],
+          "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/8-1-26e44d88-8656-4580-9ce6-9ef0518d26f3.jpg?v=1490840698907"
+          ],
+          "name": "Bông tai cao cấp Biz",
+          "price": 350000,
+          "discount": 0,
+          "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "tags": [
+            "Bông tai",
+            "Trắng",
+            "Xám"
+          ],
+          "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
+          "quantity": 1
         }
       ]
-    ]
+    },
+    {
+      "id": "3341650b-0fdc-48c4-8693-fe30b5aa2767",
+      "status": 2,
+      "username": "kyhoang4@gmail.com",
+      "product": [
+        {
+          "id": 2,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/8-1-26e44d88-8656-4580-9ce6-9ef0518d26f3.jpg?v=1490840698907"
+          ],
+          "name": "Bông tai cao cấp Biz",
+          "price": 350000,
+          "discount": 0,
+          "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "tags": [
+            "Bông tai",
+            "Trắng",
+            "Xám"
+          ],
+          "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "dc8982e5-7ae4-4812-bacb-645f006380e3",
+      "status": 1,
+      "username": "kyhoang4@gmail.com",
+      "product": [
+        {
+          "id": 3,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/1-50c08fa3-64b2-4b4b-b347-e8bb9ca7689c.jpg?v=1490840661093",
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/2-1-a0a141f5-ee57-4007-bc15-0541b8f7384e.jpg?v=1490840661093",
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/3-1-0e216b15-fde6-46cb-851f-204becefd63b.jpg?v=1490840661093",
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/4-1-cc4cc6c9-6336-42b2-b06a-c274fd90f068.jpg?v=1490840661093"
+          ],
+          "name": "Nhẫn ngọc trai cao cấp",
+          "price": "800000",
+          "discount": 0,
+          "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "tags": [
+            "Nhẫn",
+            "Thiết kế theo yêu cầu"
+          ],
+          "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/8-1-26e44d88-8656-4580-9ce6-9ef0518d26f3.jpg?v=1490840698907"
+          ],
+          "name": "Bông tai cao cấp Biz",
+          "price": 350000,
+          "discount": 0,
+          "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "tags": [
+            "Bông tai",
+            "Trắng",
+            "Xám"
+          ],
+          "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "img": [
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/9-4-df6e6054-0c41-4235-bc57-be3c8c406cd4.jpg?v=1528211760227",
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/191/458/products/11-4-0ffebfee-662d-45db-b6be-8ede3df1bf83.jpg?v=1528211760227",
+            "https://bizweb.dktcdn.net/thumb/medium/100/191/458/products/10-4-5b714fc1-c36a-4836-81dd-f743f02a7e1c-d07b6a56-03df-4e65-9dad-fef22027413f.jpg?v=1528211760227"
+          ],
+          "name": "Nhẫn vòng ADV",
+          "price": "1000000",
+          "discount": "10",
+          "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "tags": [
+            "Bông tai",
+            "Nhẫn",
+            "Vòng tay"
+          ],
+          "description": "Netus et malesuada fames ac. Lectus nulla at volutpat diam. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Nibh tellus molestie nunc non. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Pellentesque habitant morbi tristique senectus et netus et. Tincidunt dui ut ornare lectus. Interdum velit laoreet id donec. Nunc consequat interdum varius sit amet. Purus in mollis nunc sed id semper risus in hendrerit. Felis donec et odio pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque varius.",
+          "quantity": 1
+        }
+      ]
+    }
   ],
   "countries": [
     {
