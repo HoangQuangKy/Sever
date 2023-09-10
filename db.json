@@ -324,29 +324,35 @@
   ],
   "Account": [
     {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "address": "Số 71 Nguyễn Chí Thanh, Đống Đa, Hà Nội",
+      "phonenumber": "0947976736",
+      "userId": "7bc84fc0-6cd7-4039-a49f-714f07e0ccdf",
+      "province": "Thành phố Hà Nội",
+      "ward": "Quận Đống Đa",
+      "id": 1
+    },
+    {
       "username": "kyhoang4@gmail.com",
       "email": "kyhoang487@gmail.com",
       "password": "123",
       "address": "Viet Nam",
-      "userId": "18caf387-67cf-4449-86dc-1de75d1b12ca",
-      "id": 1
+      "phonenumber": "0947976736",
+      "userId": "7732f344-d1ad-4466-b84f-01590d69192a",
+      "province": "Thành phố Hà Nội",
+      "ward": "Quận Đống Đa",
+      "id": 2
     },
     {
-      "username": "muacp2",
+      "username": "kyhoang5@gmail.com",
       "email": "kyhoang487@gmail.com",
       "password": "123",
       "address": "Viet Nam",
       "phonenumber": "0947976736",
-      "userId": "fed20931-1d1c-489c-a4db-3cb71cad90ef",
-      "id": 2
-    },
-    {
-      "username": "admin",
-      "email": "admin@gmail.com",
-      "password": "admin",
-      "address": "Hải Phòng",
-      "phonenumber": "0947976736",
-      "userId": "4a091043-ab85-4d31-802a-b488fb396ffd",
+      "province": "Thành phố Hà Nội",
+      "ward": "Quận Đống Đa",
       "id": 3
     }
   ],
